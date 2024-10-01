@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SII.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SII.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SII.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik Dirt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubikdirt/v2/DtVmJxC7WLEj1uIXEWAdulw.ttf) format('truetype');
+}
+h1 {
+  font-family: "Rubik Dirt", system-ui;
+}
+header {
+  background: #FDB10B;
+}
+.col-sm-12  .nav_set {
+  font-size: small;
+}
+.slogan {
+  padding: 200px 0;
+  background-image: url('../img/pexels-conojeghuo-175711.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Rubik Dirt", system-ui;
+  font-size: large;
+  font-size: xx-large;
+}
+.navbar a {
+  font-family: "Rubik Dirt", system-ui;
+  font-style: normal;
+  color: black;
+}
+.navbar a:hover {
+  color: #FEF4C0;
+}
+.btn_my {
+  background: #FDB10B;
+  font-size: x-large;
+  width: 100px ;
+}
+.btn_my:hover {
+  background: #FEF4C0;
+}
+#about_us {
+  padding: 50px 0;
+}
+.text_about {
+  padding: 3%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+}
+#products {
+  padding: 50px 0;
+  background-color: #FEF4C0;
+}
+.menu_item img {
+  height: 300px;
+}
+.opis {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+  width: 355px;
+  padding: 30px;
+}
+#contacts {
+  padding: 50px 0;
+}
+#contacts {
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#contacts h1 {
+  padding-top: 20px ;
+}
+#scrollTopBtn {
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  position: fixed;
+  display: none;
+}
